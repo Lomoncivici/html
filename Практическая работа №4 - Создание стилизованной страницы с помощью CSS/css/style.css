@@ -1,0 +1,62 @@
+body {
+    background-color: #f6f6f6;
+   
+}
+
+.Hehe_1 {
+    color: #515070;
+
+    font-size: 50px;
+
+    font-family: 'arial black', serif;
+}
+
+.Hehe_2 {
+    color: #515070;
+
+    font-size: 25px;
+
+    font-family: 'Cirucal Air', serif;
+}
+
+.Hehe_3 {
+    color: #bd3f1c;
+
+    font-size: 30px;
+
+    font-family: 'arial black', serif;
+}
+
+.Hh_1 {
+    left: 1150px;
+    top: 314px;
+    position: absolute;
+}
+
+.Hh_2 {
+    top: 350px;
+    left: 100px;
+    position: absolute;
+}
+
+.Hh_3 {
+    top: 30px;
+    left: 1200px;
+    position: absolute;
+}
+
+.Hh_4 {
+    top: 20px;
+    left: 100px;
+    position: absolute;
+}
+
+.куб1{
+    width: 450px;
+    height: 70px;
+    background-color: #bd3f1c;
+    position: absolute;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 70px;
+}
