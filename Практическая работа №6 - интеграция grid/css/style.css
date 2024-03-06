@@ -1,0 +1,73 @@
+body {
+    background-color: #f6f6f6;
+   
+}
+
+.Hehe_1 {
+    color: #515070;
+
+    font-size: 50px;
+
+    font-family: 'arial black', serif;
+}
+
+.Hehe_2 {
+    color: #515070;
+
+    font-size: 25px;
+
+    font-family: 'Cirucal Air', serif;
+}
+
+.Hehe_3 {
+    color: #bd3f1c;
+
+    font-size: 30px;
+
+    font-family: 'arial black', serif;
+}
+
+.Hh1 {
+    display: grid;
+    margin-left: 250px; 
+    margin-top:  35px;
+}
+
+.Hh_2 {
+    display: grid inline-grid;
+    margin-left: 40px;
+    margin-top:  280px;
+}
+
+.Hh_3 {
+    display: grid inline-grid;
+    margin-left: 40px; 
+    margin-top: 20px;
+}
+
+.куб1{
+    display: grid;
+    width: 450px;
+    height: 70px;
+    background-color: #bd3f1c;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 70px;
+}
+
+.img {
+    display: grid;
+    margin-left: 175px;
+    margin-top: 200px;
+}
+
+.img1 {
+    display: grid;
+    margin-left: 150px;
+    margin-top: -200px;
+}
+
+.left-column, .right-column {
+  width: 50%; /* Занимает 50% ширины экрана */
+  float: left; /* Заставляет элементы выстраиваться горизонтально */
+}
