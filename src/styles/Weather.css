@@ -1,0 +1,24 @@
+.weather-card.sunny {
+    background: url('/images/sunny.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.weather-card.rain {
+    background: url('/images/rain.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.weather-card.clouds {
+    background: url('/images/cloudy.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.weather-card.thunderstorm {
+    background: url('/images/thunderstorm.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.weather-card.snow {
+    background: url('/images/snow.jpg') no-repeat center center;
+    background-size: cover;
+}
